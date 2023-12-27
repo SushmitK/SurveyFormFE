@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.scrollbar-none::-webkit-scrollbar{
+    display: none;
+}
+
+*,*::after, *::before{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+}
+
+.font-main {
+    font-family: 'Bad Script', cursive;
+}
+
+.font-pop {
+    font-family: 'Poppins', sans-serif;
+}
