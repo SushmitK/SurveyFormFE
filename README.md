@@ -1,8 +1,5 @@
-# React + Vite
+# MERN Stack Survey Form Submission and Deployment | Round 1 | Evotech
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live : https://romantic-chandrasekhar.139-59-36-98.plesk.page/                         
+FrontEnd Code : https://github.com/SushmitK/SurveyFormFE                             
+BackEnd Code : https://github.com/SushmitK/SurveyFormBE
